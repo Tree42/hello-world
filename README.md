@@ -1,2 +1,2 @@
 # hello-world
-First run with using this program, through class
+My name is Teresa.  I am new to any kind of development; I am learning this skill through a MOOC that uses GitHub.
